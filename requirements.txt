@@ -1,4 +1,13 @@
 dvc
 dvc[gdrive]
-pandas
 sklearn
+pandas
+pytest
+tox
+flake8
+flask
+gunicorn
+PyYAML
+scikit-learn
+numpy
+scikit-image
